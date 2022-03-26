@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=derleymad&label=Profile%20views&color=0e75b6&style=flat" alt="derleymad" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derleymad" alt="derleymad" /></a> </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
