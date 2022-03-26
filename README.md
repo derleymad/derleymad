@@ -1,6 +1,10 @@
 <h1 align="center">Hello guys 👋, I'm Wanderley Filho</h1>
 <h3 align="center">Estudante de graduação da Universidade Federal do Cariri</h3>
 <hr>
+<div align="center">
+  <img src="https://github.com/derleymad/derleymad/blob/91c86288d846cad6e62366ff6ce1a6cc7025fe6b/gimme-code-gimme.gif" alt="gifcat" width="230px" height="150">
+  </div>
+<hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=derleymad&label=Profile%20views&color=0e75b6&style=flat" alt="derleymad" /> </p>
 
