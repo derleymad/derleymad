@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wanderley Filho</h1>
+<h1 align="center">Hello guys 👋, I'm Wanderley Filho</h1>
 <h3 align="center">Estudante de graduação da Universidade Federal do Cariri</h3>
 <hr>
 
