@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wanderley Filho</h1>
 <h3 align="center">Estudante de graduação da Universidade Federal do Cariri</h3>
+<hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=derleymad&label=Profile%20views&color=0e75b6&style=flat" alt="derleymad" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derleymad" alt="derleymad" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -28,6 +29,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
+<hr>
+<br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derleymad&theme=dark&show_icons=true&locale=en&layout=compact" alt="derleymad" /></p>
