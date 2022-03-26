@@ -34,9 +34,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derleymad&show_icons=true&locale=en&layout=compact" alt="derleymad" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derleymad&show_icons=true&locale=en&layout=compact" alt="derleymad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derleymad&show_icons=true&locale=en" alt="derleymad" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derleymad&show_icons=true&locale=en" alt="derleymad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derleymad&" alt="derleymad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derleymad&" alt="derleymad" /></p>
 
