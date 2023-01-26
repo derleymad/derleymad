@@ -1,5 +1,7 @@
-<h1 align="center">Hello guys 👋, I'm Wanderley Filho</h1>
-<h3 align="center">Estudante de graduação da Universidade Federal do Cariri</h3>
+<h1 align="center">⚡️ About ME ⚡️</h1>
+<h3 align="center">I am in junior year (i.e., 3rd year) of my Bachelor's Degree(Computer Science UFCA).</h3>
+<h3 align="center">🧔 My name is Wanderley. I am a 22 years old Seft-Taught Developer.</h3>
+<h3 align="center">💻 I am a Native Android Developer, Proficient in Kotlin and a GNU/Linux Enthusiast! (in love) </h3>
 
 <div align="center">
   <img src="https://github.com/derleymad/derleymad/blob/91c86288d846cad6e62366ff6ce1a6cc7025fe6b/gimme-code-gimme.gif" alt="gifcat" width="230px" height="150">
