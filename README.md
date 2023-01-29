@@ -1,11 +1,16 @@
 <h1 align="center">⚡️ About ME ⚡️</h1>
+<p align="center" >
+  <img src="https://github.com/derleymad/derleymad/blob/91c86288d846cad6e62366ff6ce1a6cc7025fe6b/gimme-code-gimme.gif" alt="gifcat" width="230px" height="150">
+  </p>
 <h5 align="center">I am in junior year (i.e., 4rd year) of my Bachelor's Degree(Computer Science UFCA).</h5>
 <h5 align="center">🧔 My name is Wanderley. I am a 22 years old Seft-Taught Developer.</h5>
 <h5 align="center">💻 I am a Native Android Developer, Proficient in Kotlin and a GNU/Linux Enthusiast! (in love) </h5>
 
 <div align="center">
-  <img src="https://github.com/derleymad/derleymad/blob/91c86288d846cad6e62366ff6ce1a6cc7025fe6b/gimme-code-gimme.gif" alt="gifcat" width="230px" height="150">
+    <img src="https://github.com/derleymad/derleymad/blob/main/robot-android.gif" alt="gifcat" width="230px" height="150">
+    <img src="https://github.com/derleymad/derleymad/blob/main/rotmg-oryx.gif?raw=true" alt="oryx" width="230px" height="150">
   </div>
+  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=derleymad&label=Profile%20views&color=0e75b6&style=flat" alt="derleymad" /> </p>
 
