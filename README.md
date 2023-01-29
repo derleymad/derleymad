@@ -1,5 +1,5 @@
 <h1 align="center">⚡️ About ME ⚡️</h1>
-<h5 align="center">I am in junior year (i.e., 3rd year) of my Bachelor's Degree(Computer Science UFCA).</h5>
+<h5 align="center">I am in junior year (i.e., 4rd year) of my Bachelor's Degree(Computer Science UFCA).</h5>
 <h5 align="center">🧔 My name is Wanderley. I am a 22 years old Seft-Taught Developer.</h5>
 <h5 align="center">💻 I am a Native Android Developer, Proficient in Kotlin and a GNU/Linux Enthusiast! (in love) </h5>
 
